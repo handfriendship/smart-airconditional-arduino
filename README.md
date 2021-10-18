@@ -1,3 +1,3 @@
 # smart-airconditional-arduino
 
-![](아두이노 스마트에어컨.jpg)
+![](./arduino_smart_airconditional.jpg)
